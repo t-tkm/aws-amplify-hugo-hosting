@@ -14,5 +14,4 @@ pre: "<b>0. </b>"
 
 それでは、はじめていきましょう〜
 
-**ねぎ大量消費！免疫力UP!【爆ねぎチャーシュー】の作り方。**
-{{< youtube zAEPtqUI9YA>}}
+![img](/images/img.png)
